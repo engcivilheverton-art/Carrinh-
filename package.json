@@ -1,0 +1,10 @@
+{
+  "name": "carrinho",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Carrinhô: planner de compras com listas compartilhadas (HTML + Firebase + Netlify)",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy:rules": "firebase deploy --only firestore:rules"
+  }
+}
