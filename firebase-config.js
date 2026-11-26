@@ -1,11 +1,8 @@
-// Cole aqui a configuração do app Web do seu projeto Firebase.
-// Console do Firebase > Configurações do projeto > Seus apps > App da Web > "Configuração do SDK".
-// Esses valores NÃO são secretos: quem protege os dados são as regras do Firestore (firestore.rules).
 export const firebaseConfig = {
-  apiKey: "COLE_AQUI",
-  authDomain: "SEU-PROJETO.firebaseapp.com",
-  projectId: "SEU-PROJETO",
-  storageBucket: "SEU-PROJETO.firebasestorage.app",
-  messagingSenderId: "000000000000",
-  appId: "1:000000000000:web:0000000000000000"
+  apiKey: "AIzaSyDS1HS9TMfl0s3JVIl8gbCfta0_sByapXU",
+  authDomain: "carrinho-planner.firebaseapp.com",
+  projectId: "carrinho-planner",
+  storageBucket: "carrinho-planner.firebasestorage.app",
+  messagingSenderId: "78399606943",
+  appId: "1:78399606943:web:4c027d7db77ded4899d2aa"
 };
